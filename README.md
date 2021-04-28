@@ -12,9 +12,9 @@ Since February 2021, I have been studying at Makers Academy, an intensive progra
 
  | Name     | Description | Tech/tools     |
 | :---        |    :----:   |          ---: |
-| [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits. Users can input activities such as not buying takeaway, as well as how much they saved and be rewarded by audio/visual cues.      | React Native, Firebase |
-| [AceBook](https://github.com/charlierdm/Acebook)   | Social Media Site that lets users sign up, make posts, likes and upload pictures.       | Ruby on Rails       |
-| [NoteApp](https://github.com/charlierdm/noteApp)   | Note Taking App for developers that utilises local storage to save notes. A single page app that uses no frameworks.         | Vanilla JavaScript  |
+| [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits.  | React Native, Firebase |
+| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on.    | Ruby on Rails       |
+| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes.    | Vanilla JavaScript  |
 
 
 # Skills 
