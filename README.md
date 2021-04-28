@@ -1,27 +1,19 @@
 ## Charlie Davis-Miller 
 
-  
 
-A creative and ambitious Full Stack Junior Developer looking for a role in a challenging new environment, to enhance my developer skillset, as well as grow as an engineer and person. 
+A creative and ambitious Full Stack Developer looking for a role to extend and consolidate my programming knowledge, as well as grow as a person and engineer.
+I aim to bring personal qualities that will add to a healthy team dynamic and positive working enviornment. Clear communication and being mindful are key values at the forefront of my focus.
 
-I aim to bring personal qualities to the table that will add to a healthy team dynamic and I am intent on learning everything I can within the programming sphere.  
-
-Since February 2021, I have been studying at Makers Academy, a developer bootcamp in which I’ve been learning software development through a number of projects such as (project link goes here). I have spent the past 2 years living and teaching in South Korea and feel the experience has made me highly adaptable and resilient. 
-
+Since February 2021, I have been studying at Makers Academy, an intensive programming bootcamp in which I have learned so many new skills regarding teamwork and coding. For example, for my final project [Marble](https://github.com/charlierdm/Marble), we created an invisible habit tracking app using React Native, an entirely new framework for us all in the space of 2 weeks. Within the Emotional Intelligence workshops at Makers, I have developed many skills that lend towards effective teamwork, as well as being there for my team both emotionally and technically. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong>
  
 
-## Projects 
+## Group Projects
 
-  
-
-| Name                         | Description       | Tech/tools        | 
-
-| ---------------------------- | ----------------- | ----------------- | 
-
-| **Final project**            | A webapp to do x. | React, Jest, etc. | 
-
-| **Something else worked on** | A webapp to do y. | Ruby              | 
-
+ | Name     | Description | Tech/tools     |
+| :---        |    :----:   |          ---: |
+| Marble       | Invisible Savings App       | React Native, Firebase   |
+| AceBook   | Social Media Site        | Ruby on Rails       |
+| NoteApp   | Note Taking App          | Vanilla JavaScript  |
   
 
 ## Experience 
@@ -60,11 +52,11 @@ My journey up until now has been a case of adapting from one environment to anot
 
 ### Communication 
 
-With my background in both Journalism and Education, there has always been an emphasis on good communication for me. I am always practicing good, attentive listening and feel this is key for working with others as well as being as present as possible for any given scenario. Marshall B. Rosenbergs ‘Nonviolent Communication’ is a big influence. 
+I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenbergs book ‘Nonviolent Communication’ is a big influence on my approach to teamwork. 
 
 ### Enthusiasm 
 
-I approach life with curiosity and enthusiasm. These are crucial components that enable me to be the developer that I am today.
+I approach life with curiosity and enthusiasm and feel these qualities lend themselves to being a great team member and programmer. 
 
 ### Focus 
 
@@ -120,7 +112,7 @@ You can see my work over on my [GitHub profile](https://github.com/charlierdm)
 
   
 
-- Music maker / Record lover and purveyor:  I love to record and create sounds as well as spend time finding and listening to records.  
+- Music maker / Record lover and purveyor:  I love to record and create sounds within my laptop, as well as spend time finding and listening to records.  
 
  
 
@@ -132,4 +124,4 @@ You can see my work over on my [GitHub profile](https://github.com/charlierdm)
 
  
 
-- Health & Fitness enthusiast: I relish being challenged. I’ve ran a half Marathon for charity and spent many weekends touring mountains in South Korea by bike. Meditation is a part of my daily practice – a big thank you to Sam Harris’ Waking Up.  
+- Health & Fitness: I relish being challenged. I’ve ran a half Marathon for charity and spent many weekends touring mountains in South Korea by bike. I look after myself as I think interconnectedness is a very important part of life. By taking good care of myself, I can be a better friend, colleague and family member. 
