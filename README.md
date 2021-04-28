@@ -1,5 +1,6 @@
-## Charlie Davis-Miller 
+# Charlie Davis-Miller 
 
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
 A creative and ambitious Full Stack Developer looking for a role to extend and consolidate my programming knowledge, as well as grow as a person and engineer.
 I aim to bring personal qualities that will add to a healthy team dynamic and positive working enviornment. Clear communication and being mindful are key values at the forefront of my focus.
@@ -7,13 +8,34 @@ I aim to bring personal qualities that will add to a healthy team dynamic and po
 Since February 2021, I have been studying at Makers Academy, an intensive programming bootcamp in which I have learned so many new skills regarding teamwork and coding. For example, for my final project [Marble](https://github.com/charlierdm/Marble), we created an invisible habit tracking app using React Native, an entirely new framework for us all in the space of 2 weeks. Within the Emotional Intelligence workshops at Makers, I have developed many skills that lend towards effective teamwork, as well as being there for my team both emotionally and technically. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong>
  
 
-## Group Projects
+# Projects
 
  | Name     | Description | Tech/tools     |
 | :---        |    :----:   |          ---: |
 | Marble       | Invisible Savings App       | React Native, Firebase   |
 | AceBook   | Social Media Site        | Ruby on Rails       |
 | NoteApp   | Note Taking App          | Vanilla JavaScript  |
+
+
+# Skills 
+
+  
+
+### Adaptability 
+
+My journey up until now has been a case of adapting from one environment to another. I spent the past 2 years within in a small community of expat teachers that became like family whilst living in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.  
+
+### Communication 
+
+I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenbergs book ‘Nonviolent Communication’ is a big influence on my approach to teamwork. 
+
+### Enthusiasm 
+
+I approach life with curiosity and enthusiasm and feel these qualities lend themselves to being a great team member and programmer. 
+
+### Focus 
+
+I had the goal of saving enough whilst teaching to be able to pursue my educational goals and have successfully done that by keeping my longer-term goals in mind and shaping my choices and lifestyle to support that ambition. This took self-disciple and the ability to envision what it would take to achieve my goal, ultimately, focus.
   
 
 ## Experience 
@@ -38,33 +60,11 @@ For my first year in South Korea, I taught English language at two public school
 
  
 
-I began as a market research analyst, contacting International Companies regarding IT and HR services. After several months I was promoted to Team Leader, in which I managed a team of 7 staff, delegating tasks to ensure meeting targets and delivering training on the internal CRM system.
+I began as a market research analyst, contacting International Companies regarding IT and HR services. After several months I was promoted to Team Leader, in which I managed a team of 7 staff, delegating tasks to ensure meeting targets and delivering training on the internal CRM system.  
 
   
 
-## Skills 
-
-  
-
-### Adaptability 
-
-My journey up until now has been a case of adapting from one environment to another. I spent the past 2 years within in a small community of expat teachers that became like family whilst living in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.  
-
-### Communication 
-
-I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenbergs book ‘Nonviolent Communication’ is a big influence on my approach to teamwork. 
-
-### Enthusiasm 
-
-I approach life with curiosity and enthusiasm and feel these qualities lend themselves to being a great team member and programmer. 
-
-### Focus 
-
-I had the goal of saving enough whilst teaching to be able to pursue my educational goals and have successfully done that by keeping my longer-term goals in mind and shaping my choices and lifestyle to support that ambition. This took self-disciple and the ability to envision what it would take to achieve my goal, ultimately, focus.  
-
-  
-
-## Education 
+# Education 
 
   
 
@@ -108,7 +108,7 @@ You can see my work over on my [GitHub profile](https://github.com/charlierdm)
 
   
 
-## Hobbies 
+# Hobbies and interests
 
   
 
