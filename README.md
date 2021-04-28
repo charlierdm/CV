@@ -16,6 +16,8 @@ Since February 2021, I have been studying at Makers Academy, an intensive progra
 | [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on.    | Ruby on Rails       |
 | [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes.    | Vanilla JavaScript  |
 
+For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
+
 
 # Skills 
 
@@ -76,13 +78,9 @@ I began as a market research analyst, contacting International Companies regardi
 
 - Agile/XP 
 
-- Ruby, Rails, JavaScript 
+- Ruby, Rails, JavaScript, React Native
 
 - RSpec, Jasmine 
-
- 
-
-You can see my work over on my [GitHub profile](https://github.com/charlierdm) 
 
  
 
