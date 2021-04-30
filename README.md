@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
-A creative and ambitious Full Stack Developer looking for a role to extend and consolidate my programming knowledge, as well as grow as a person and engineer.
+A creative and ambitious Full Stack Developer looking for a role to extend my programming knowledge, as well as grow as a person and engineer.
 I aim to bring personal qualities that will add to a healthy team dynamic and positive working enviornment. Clear communication and being mindful are key values at the forefront of my focus.
 
 Since February 2021, I have been studying at Makers Academy, an intensive programming bootcamp in which I have learned so many new skills regarding teamwork and coding. For example, for my final project [Marble](https://github.com/charlierdm/Marble), we created an invisible habit tracking app using React Native, an entirely new framework for us all in the space of 2 weeks. Within the Emotional Intelligence workshops at Makers, I have developed many skills that lend towards effective teamwork, as well as being there for my team both emotionally and technically. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong>
