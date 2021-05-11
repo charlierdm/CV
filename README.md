@@ -10,11 +10,11 @@ Since February 2021, I have been studying at Makers Academy, an intensive progra
 
 # Projects
 
- | Name     | Description | Tech/tools     |
-| :---        |    :----:   |          ---: |
-| [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits.  | React Native, Firebase |
-| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on.    | Ruby on Rails       |
-| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes.    | Vanilla JavaScript  |
+ | Name     | Description | Tech/tools     | My contribution
+| :---        |    :----:   |          :----: | ---: |
+| [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits.  | React Native, Firebase | Front end/Back end/Sound Design |
+| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on.    | Ruby on Rails       | Front end/Back end |
+| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes.    | Vanilla JavaScript  | Front end |
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
