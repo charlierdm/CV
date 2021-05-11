@@ -15,7 +15,7 @@ Since February 2021, I have been studying at Makers Academy, an intensive progra
 | [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits.  | React Native, Firebase | 
 | [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes.    | Vanilla JavaScript  | 
 | [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on.    | Ruby on Rails       | 
-| [Bank_Tech_Test](https://github.com/charlierdm/bank_tech_test) | A banking system to meet client specifications | Ruby | 
+| [Bank](https://github.com/charlierdm/bank_tech_test) | A banking system to meet client specifications | Ruby | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
