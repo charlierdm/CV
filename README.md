@@ -75,13 +75,14 @@ I began as a market research analyst for international IT companies. After sever
 
 ### Makers Academy (February ‘21 to April ‘21) 
 
-  
-#### Technologies used
+A focus on creating well designed, clean code whilst applying design principles. Learning the ability to learn, regardless of the technology stack used. An emphasis on Test Driven Development and Object Oriented Programming through frequent pair programming. Learning agile working methodologies in group projects.  
 
-* JavaScript / Jasmine / React Native
+Design principles: OOP, TDD, MVC
+Languages: JavaScript, Ruby
+Frameworks: React Native, Ruby on Rails, Sinatra
+Databases: PostgreSQL and Firebase
+Testing framworks: Jasmine, RSpec, Capybara
 
-* Ruby / RSpec / Sinatra / Ruby on Rails 
-  
 
 #### Skills Developed 
 
