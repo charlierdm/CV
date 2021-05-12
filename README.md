@@ -81,13 +81,13 @@ I began as a market research analyst for international IT companies. After sever
 * Ruby / RSpec / Sinatra / Ruby on Rails 
   
 
-###### Skills Developed 
+##### Skills Developed 
 
 * OOP, TDD, MVC, DDD, Design Philosophy.    
 
 * Agile and team based working.   
 
-* Problem solving, Attention to detail and debugging.    
+* Problem solving, Attention to detail and debugging.      
 
 
 #### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
