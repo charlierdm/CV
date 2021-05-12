@@ -98,7 +98,7 @@ I began as a market research analyst for international IT companies. After sever
 
  
 
-### London South Bank University - Bachelors Degree in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
+### London South Bank University - BA Hons in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
 
 
 - Writing for several online music publications during the course.   
