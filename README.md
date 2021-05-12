@@ -49,6 +49,7 @@ I designed and implemented a curriculum for students and trained them for the Ca
 * Curating lesson plans according to the provided curriculum. 
 * Teaching English language to students aged 5 - 16, ensuring all levels needs are met. 
 
+<br />
 
 ### English Language Teacher – Chungnam Education Office (South Korea, November ‘17 - December ‘18)   
 
@@ -58,6 +59,8 @@ For my first year in South Korea, I taught English language at two public school
 * Curating lesson plans according to the national curriculum, meeting national education specifications 
 * Running the schools English Language performances, managing groups and co-ordinating the events. 
 
+<br />
+
 ### Team Manager/Market Research Analyst – One Radar (Brighton, U.K April ‘14 – February ‘17) 
 
 I began as a market research analyst for international IT companies. After several months I was promoted to Team Manager.
@@ -65,6 +68,8 @@ I began as a market research analyst for international IT companies. After sever
 * Administration and CRM system management. 
 * Team manager to a team of 7. Training individuals and delagating tasks to make sure daily targets were met.
 * Arranging meetings with I.T proffesionals and building relationships. 
+  
+  <br />
   
 
 # Education 
@@ -87,21 +92,26 @@ I began as a market research analyst for international IT companies. After sever
 
 * Agile and team based working.   
 
-* Problem solving, Attention to detail and debugging.      
+* Problem solving, Attention to detail and debugging. 
+<br />      
 
 
 ### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
 
  
 
-- Qualified to teach English as a foreign language.    
+- Qualified to teach English as a foreign language.  
 
- 
+<br />
+
 
 ### London South Bank University - BA Hons in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
 
 
-- Writing for several online music publications during the course.   
+- Writing for several online music publications during the course.  
+
+<br /> 
+
 
 # Hobbies and interests
 
