@@ -8,12 +8,9 @@ A creative and ambitious Full Stack Developer with a background in Education, lo
 
  | Name     | Description | Tech/tools     | 
 | :---        |    :----:   |    ---: |
-| [Marble](https://github.com/charlierdm/Marble)       | <strong>An app for visualising invisible habits.</strong>
-  This was my first time creating a mobile app which meant we developed many new skills such as debugging via an android emulator and figuring out how to combine our front end to our cloud based back end.  | React Native, Firebase | 
-| [NoteApp](https://github.com/charlierdm/noteApp)   | <strong>A single page web app for developers to take notes.</strong>
-  The challenge was to write a SPA webapp with no frameworks which meant learning lots of new JavaScript techniques to solve problems such as page reloads and navigation.  | Vanilla JavaScript  | 
-| [AceBook](https://github.com/charlierdm/Acebook)   | <strong>A Social Media web app for users to communicate on.</strong>
-  This was my first time using a fully featured framework and with a steep learning curve. We managed to overcome the initial difficulty by studying individually, then as a group to share knowledge.    | Ruby on Rails       | 
+| [Marble](https://github.com/charlierdm/Marble)       | <strong>An app for visualising invisible habits.</strong> This was my first time creating a mobile app which meant we developed many new skills such as debugging via an android emulator and figuring out how to combine our front end to our cloud based back end.  | React Native, Firebase | 
+| [NoteApp](https://github.com/charlierdm/noteApp)   | <strong>A single page web app for developers to take notes.</strong> The challenge was to write a SPA webapp with no frameworks which meant learning lots of new JavaScript techniques to solve problems such as page reloads and navigation.  | Vanilla JavaScript  | 
+| [AceBook](https://github.com/charlierdm/Acebook)   | <strong>A Social Media web app for users to communicate on.</strong> This was my first time using a fully featured framework and with a steep learning curve. We managed to overcome the initial difficulty by studying individually, then as a group to share knowledge.    | Ruby on Rails       | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
