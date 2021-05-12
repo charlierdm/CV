@@ -37,7 +37,7 @@ I'm a focused, goal orientated individual. I value regular reflection and daily 
 
 * I had the goal of saving enough whilst teaching to be able to persue studying at Makers Academy. I achieved this by keeping my longer-term goals in mind and shaping my choices and lifestyle to support that ambition. This took self-disciple and the ability to envision what it would take to achieve my goal.    
   
-## Experience 
+# Experience 
 
   
 
