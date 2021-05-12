@@ -69,9 +69,6 @@ I began as a market research analyst for international IT companies. After sever
 * Team manager to a team of 7. Training individuals and delagating tasks to make sure daily targets were met.
 * Arranging meetings with I.T proffesionals and building relationships. 
   
-  <br />
-  
-
 # Education 
 
   
@@ -109,8 +106,6 @@ I began as a market research analyst for international IT companies. After sever
 
 
 - Writing for several online music publications during the course.  
-
-<br /> 
 
 
 # Hobbies and interests
