@@ -71,17 +71,17 @@ I began as a market research analyst for international IT companies. After sever
 
   
 
-#### Makers Academy (February ‘21 to April ‘21) 
+### Makers Academy (February ‘21 to April ‘21) 
 
   
-##### Technologies used
+#### Technologies used
 
 * JavaScript / Jasmine / React Native
 
 * Ruby / RSpec / Sinatra / Ruby on Rails 
   
 
-##### Skills Developed 
+#### Skills Developed 
 
 * OOP, TDD, MVC, DDD, Design Philosophy.    
 
@@ -90,7 +90,7 @@ I began as a market research analyst for international IT companies. After sever
 * Problem solving, Attention to detail and debugging.      
 
 
-#### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
+### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
 
  
 
@@ -98,7 +98,7 @@ I began as a market research analyst for international IT companies. After sever
 
  
 
-#### London South Bank University - Bachelors Degree in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
+### London South Bank University - Bachelors Degree in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
 
 
 - Writing for several online music publications during the course.   
