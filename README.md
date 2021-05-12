@@ -54,13 +54,9 @@ I had the goal of saving enough whilst teaching to be able to pursue my educatio
 
 ### English Language Teacher - GEM Academy (South Korea, January ‘19 - January ‘20)   
 
-I taught and ran my own curriculum to students aged between 5 and 16 at the private academy. I trained a group of students for the Cambridge speaking and written competition held in Seoul.  
+I designed and implimented a curriculum for students and trained them for the Cambridge speaking and written competition held in Seoul. The greatest lesson from my time spent teaching in Korea is the importance of listening. 
 
-The greatest lesson from my time spent teaching in Korea is the importance of listening. 
-
-##### Responsibilities
-
-* Preparing students for the Cambridge Speaking and Writing competition.
+* Coaching students for the Cambridge Speaking and Writing competition.
 * Curating lesson plans according to the provided curriculum. 
 * Teaching English language to students aged 5 - 16.
 
@@ -68,8 +64,6 @@ The greatest lesson from my time spent teaching in Korea is the importance of li
 ### English Language Teacher – Chungnam Education Office (South Korea, November ‘17 - December ‘18)   
 
 For my first year in South Korea, I taught English language at two public schools. All of my students were elementary level and I was involved in organizing events and activity days for the students. 
-
-##### Responsibilities
 
 * Creating interesting after-school English club materials.
 * Curating lesson plans according to the national curriculum. 
