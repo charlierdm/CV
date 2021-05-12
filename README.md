@@ -89,8 +89,7 @@ I began as a market research analyst for international IT companies. After sever
 
 * Agile and team based working.   
 
-* Problem solving, Attention to detail and debugging. 
-<br />      
+* Problem solving, Attention to detail and debugging.      
 
 
 ### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
@@ -98,8 +97,6 @@ I began as a market research analyst for international IT companies. After sever
  
 
 - Qualified to teach English as a foreign language.  
-
-<br />
 
 
 ### London South Bank University - BA Hons in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
