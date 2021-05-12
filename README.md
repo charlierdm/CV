@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
-A creative and ambitious Full Stack Developer looking for a role to extend my programming knowledge, as well as grow as a person and engineer. Clear communication and being mindful are key values at the forefront of my focus to create a healthy team dynamic. Problem solving and attention to detail are key attributes that lend themselves to my coding. Having completed the 16 week Makers Academy bootcamp, I have been left with a real passion for learning and embracing new technologies and improving my process. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong> 
+A creative and ambitious Full Stack Developer with a background in Education, looking for a role to extend my programming knowledge, as well as grow as a person and engineer. Clear communication and being mindful are key values at the forefront of my focus to create a healthy team dynamic. Problem solving and attention to detail are key attributes that lend themselves to my coding. Having completed the 16 week Makers Academy bootcamp, I have been left with a real passion for learning and embracing new technologies and improving my process. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong> 
 
 # Projects
 
