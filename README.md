@@ -43,20 +43,20 @@ I'm a focused, goal orientated individual. I value regular reflection and daily 
 
 ### English Language Teacher - GEM Academy (South Korea, January ‘19 - January ‘20)   
 
-I designed and implimented a curriculum for students and trained them for the Cambridge speaking and written competition held in Seoul. The greatest lesson from my time spent teaching in Korea is the importance of listening. 
+I designed and implemented a curriculum for students and trained them for the Cambridge speaking and written competition held in Seoul. The greatest lesson from my time spent teaching in Korea is the importance of listening. 
 
 * Coaching students for the Cambridge Speaking and Writing competition.
 * Curating lesson plans according to the provided curriculum. 
-* Teaching English language to students aged 5 - 16.
+* Teaching English language to students aged 5 - 16, ensuring all levels needs are met. 
 
 
 ### English Language Teacher – Chungnam Education Office (South Korea, November ‘17 - December ‘18)   
 
 For my first year in South Korea, I taught English language at two public schools. All of my students were elementary level and I was involved in organizing events and activity days for the students. 
 
-* Creating interesting after-school English club materials.
-* Curating lesson plans according to the national curriculum. 
-* Running the schools English Language performances.
+* Creating interesting and engaging after-school English club materials.
+* Curating lesson plans according to the national curriculum, meeting national education specifications 
+* Running the schools English Language performances, managing groups and co-ordinating the events. 
 
 ### Team Manager/Market Research Analyst – One Radar (Brighton, U.K April ‘14 – February ‘17) 
 
@@ -64,7 +64,7 @@ I began as a market research analyst for international IT companies. After sever
 
 * Administration and CRM system management. 
 * Team manager to a team of 7. Training individuals and delagating tasks to make sure daily targets were met.
-* Arranging meetings with I.T proffesionals.  
+* Arranging meetings with I.T proffesionals and building relationships. 
   
 
 # Education 
@@ -78,7 +78,7 @@ I began as a market research analyst for international IT companies. After sever
 
 * JavaScript / Jasmine / React Native
 
-* Ruby / Sinatra / Ruby on Rails / RSpec
+* Ruby / RSpec / Sinatra / Ruby on Rails 
   
 
 ###### Skills Developed 
