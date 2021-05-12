@@ -2,20 +2,16 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
-A creative and ambitious Full Stack Developer looking for a role to extend my programming knowledge, as well as grow as a person and engineer.
-I aim to bring personal qualities that will add to a healthy team dynamic and positive working enviornment. Clear communication and being mindful are key values at the forefront of my focus. Problem solving and attention to detail are key attributes that lend themselves to my coding. 
-
-Since February 2021, I have been studying at Makers Academy, an intensive programming bootcamp in which I have learned so many new skills regarding teamwork and coding. For example, for my final project [Marble](https://github.com/charlierdm/Marble), we created an invisible habit tracking app using React Native, an entirely new framework for us all in the space of 2 weeks. Within the Emotional Intelligence workshops at Makers, I have developed many skills that lend towards effective teamwork, as well as being there for my team both emotionally and technically. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong>
- 
+A creative and ambitious Full Stack Developer looking for a role to extend my programming knowledge, as well as grow as a person and engineer. Clear communication and being mindful are key values at the forefront of my focus to create a healthy team dynamic. Problem solving and attention to detail are key attributes that lend themselves to my coding. Having completed the 16 week Makers Academy bootcamp, I have been left with a real passion for learning and embracing new technologies and improving my process. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong> 
 
 # Projects
 
  | Name     | Description | Tech/tools     | 
 | :---        |    :----:   |    ---: |
-| [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits.  | React Native, Firebase | 
-| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes.    | Vanilla JavaScript  | 
-| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on.    | Ruby on Rails       | 
-| [Bank](https://github.com/charlierdm/bank_tech_test) | A banking system to meet client specifications | Ruby | 
+| [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits. This was my first time creating a mobile app which meant we developed many new skills such as debugging via an android emulator and figuring out how to combine our front end to our cloud based back end.  | React Native, Firebase | 
+| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes. The challenge was to write a SPA webapp with no frameworks which meant learning lots of new JavaScript techniques to solve problems such as page reloads and navigation.  | Vanilla JavaScript  | 
+| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on. This was my first time using a fully featured framework and with a steep learning curve. We managed to overcome the initial difficulty by studying individually, then as a group to share knowledge.    | Ruby on Rails       | 
+| [Bank](https://github.com/charlierdm/bank_tech_test) | A banking system to meet client specifications. The challenge was to submit a first draft of the tech test, then a second based on client feedback. This meant developing my communication skills to understand exactly what the changes needed to be. | Ruby | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
@@ -28,25 +24,19 @@ For a complete list of my projects, visit my [Github](https://github.com/charlie
 
 My journey up until now has been a case of adapting from one environment to another. I spent the past 2 years within in a small community of expat teachers that became like family whilst living in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.  
 
-* I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach individuals of various ages and abilities. 
+* I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach individuals of various ages and abilities. The result of this was seeing students that started with no English speaking/reading skills at all developing the skills to say basic phrases and expressions.
 
-### Communication 
+### Meaningful Communication 
 
-I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenbergs book ‘Nonviolent Communication’ is a big influence on my approach to teamwork. 
+I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenbergs book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself with as much clarity as possible.
 
-* A large part of my teaching role was planning my lessons in accordance with the national curriculum. I would have to relay what I was creating through and English to Korean translator which required great patience and attentiveness.
+* I made sure that during each standup on our group project at Makers Academy, that we held an emotional check in - to create a space where each team member can speak openly about how they are thinking or feeling. Building understanding of how the team was managing the project and difficulties of learning a new framework helped determine what tasks we would each focus on for the day.  
 
-### Enthusiasm 
+### Determination
 
-I approach life with curiosity and enthusiasm and feel these qualities lend themselves to being a great team member and programmer.
+I'm a focused, goal orientated individual. I value regular reflection and daily practices to help me keep clear and consistent. For example, I read about Stoicism regularly as I find it helps to remind me of what I hold important in life and clarify my values. I meditate daily so that I can focus on what I want to achieve each day and contribute well to whatever task I am given. 
 
-* As a teacher, there is an element of performance. To keep engagement and interest in your classes - I had to approach each lesson with a great deal of enthusiasm. 
-
-### Focus 
-
-I had the goal of saving enough whilst teaching to be able to pursue my educational goals and have successfully done that by keeping my longer-term goals in mind and shaping my choices and lifestyle to support that ambition. This took self-disciple and the ability to envision what it would take to achieve my goal, ultimately, focus.
-
-* I have spent the past 6 months working daily to refine my programming process with full commitment and clear intent. 
+* I had the goal of saving enough whilst teaching to be able to persue studying at Makers Academy. I achieved this by keeping my longer-term goals in mind and shaping my choices and lifestyle to support that ambition. This took self-disciple and the ability to envision what it would take to achieve my goal.    
   
 ## Experience 
 
@@ -69,17 +59,13 @@ For my first year in South Korea, I taught English language at two public school
 * Curating lesson plans according to the national curriculum. 
 * Running the schools English Language performances.
 
-### Team Leader/Market Research Analyst – One Radar (Brighton, U.K April ‘14 – February ‘17) 
+### Team Manager/Market Research Analyst – One Radar (Brighton, U.K April ‘14 – February ‘17) 
 
- 
-
-I began as a market research analyst, contacting International Companies regarding IT and HR services. After several months I was promoted to Team Leader, in which I managed a team of 7 staff, delegating tasks to ensure meeting targets and delivering training on the internal CRM system.  
-
-##### Responsibilities
+I began as a market research analyst for international IT companies. After several months I was promoted to Team Manager.
 
 * Administration and CRM system management. 
-* Team management to meet performance targets.
-* Arranging meetings with I.T proffesionals.
+* Team manager to a team of 7. Training individuals and delagating tasks to make sure daily targets were met.
+* Arranging meetings with I.T proffesionals.  
   
 
 # Education 
@@ -91,67 +77,36 @@ I began as a market research analyst, contacting International Companies regardi
   
 ##### Technologies used
 
-* JavaScript / Jasmine
+* JavaScript / Jasmine / React Native
 
 * Ruby / Sinatra / Ruby on Rails / RSpec
-
-* HTML / CSS
-
-* React Native
+  
 
 ###### Skills Developed 
 
-* OOP, TDD, MVC, DDD 
+* OOP, TDD, MVC, DDD, Design Philosophy.    
 
-* Agile and team based working
+* Agile and team based working.   
 
-* Problem solving
+* Problem solving, Attention to detail and debugging.    
 
-* Attention to detail
-
-* Debugging
-
-* Design philosophy
-
-
- 
 
 #### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
 
  
 
-- Qualified to teach English as a foreign language.  
+- Qualified to teach English as a foreign language.    
 
  
 
-#### London South Bank University (September ‘10 to October ‘13) 
+#### London South Bank University - Bachelors Degree in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
 
-  
 
-- Bachelors Degree in Multimedia Journalism 
-
-- 2:1  
-
-- Writing for several online music publications during the course. 
-
- 
-
-  
+- Writing for several online music publications during the course.   
 
 # Hobbies and interests
 
-  
-
-- Music maker / Record lover and purveyor:  I love to record and create sounds within my laptop, as well as spend time finding and listening to records.  
+- Writer: As a music maker/lover, I write for music related publications. Here are several examples of my written work for London based outlet ['The Ransom Note'.](https://www.theransomnote.com/author/charlie-davis-miller/) 
 
  
-
-- Reader:  I love to read and learn from a wide selection of topics. I'm currently enjoying: 'Winston Churchill's Afternoon Nap: A Wide-Awake Inquiry into the Human Nature of Time'.  
-
- 
-
-- Writer: I enjoy writing personally and, in some cases, professionally. Here are examples of my written work for London based music outlet ['The Ransom Note'.](https://www.theransomnote.com/author/charlie-davis-miller/) 
-
- 
-
 - Health & Fitness: I relish being challenged. I’ve ran a half Marathon for charity and spent many weekends touring mountains in South Korea by bike. I look after myself as I think interconnectedness is a very important part of life. By taking good care of myself, I can be a better friend, colleague and family member. 
