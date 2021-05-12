@@ -11,7 +11,6 @@ A creative and ambitious Full Stack Developer looking for a role to extend my pr
 | [Marble](https://github.com/charlierdm/Marble)       | An app for visualising invisible habits. This was my first time creating a mobile app which meant we developed many new skills such as debugging via an android emulator and figuring out how to combine our front end to our cloud based back end.  | React Native, Firebase | 
 | [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to take notes. The challenge was to write a SPA webapp with no frameworks which meant learning lots of new JavaScript techniques to solve problems such as page reloads and navigation.  | Vanilla JavaScript  | 
 | [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app for users to communicate on. This was my first time using a fully featured framework and with a steep learning curve. We managed to overcome the initial difficulty by studying individually, then as a group to share knowledge.    | Ruby on Rails       | 
-| [Bank](https://github.com/charlierdm/bank_tech_test) | A banking system to meet client specifications. The challenge was to submit a first draft of the tech test, then a second based on client feedback. This meant developing my communication skills to understand exactly what the changes needed to be. | Ruby | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
