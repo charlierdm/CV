@@ -81,7 +81,7 @@ Design principles: OOP, TDD, MVC\
 Languages: JavaScript, Ruby\
 Frameworks: React Native, Ruby on Rails, Sinatra\
 Databases: PostgreSQL and Firebase\
-Testing framworks: Jasmine, RSpec, Capybara\
+Testing framworks: Jasmine, RSpec, Capybara
 
 
 #### Skills Developed 
