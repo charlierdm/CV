@@ -77,11 +77,11 @@ I began as a market research analyst for international IT companies. After sever
 
 A focus on creating well designed, clean code whilst applying design principles. Learning the ability to learn, regardless of the technology stack used. An emphasis on Test Driven Development and Object Oriented Programming through frequent pair programming. Learning agile working methodologies in group projects.  
 
-Design principles: OOP, TDD, MVC. 
-Languages: JavaScript, Ruby. 
-Frameworks: React Native, Ruby on Rails, Sinatra. 
-Databases: PostgreSQL and Firebase. 
-Testing framworks: Jasmine, RSpec, Capybara. 
+Design principles: OOP, TDD, MVC\
+Languages: JavaScript, Ruby\
+Frameworks: React Native, Ruby on Rails, Sinatra\
+Databases: PostgreSQL and Firebase\
+Testing framworks: Jasmine, RSpec, Capybara\
 
 
 #### Skills Developed 
