@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
-A creative and ambitious Full Stack Developer with a background in Education, looking for a role to extend my programming knowledge, as well as grow as a person and engineer. Clear communication and being mindful are key values at the forefront of my focus to create a healthy team dynamic. Problem solving and attention to detail are key attributes that lend themselves to my coding. Having completed the 16 week Makers Academy bootcamp, I have been left with a real passion for learning and embracing new technologies and improving my process. <strong>The course experience has embedded in me the ability to learn anything and I am very excited to continue that journey.</strong> 
+<strong>A creative and ambitious full stack junior developer with experience in JavaScript, Node, React Native, Ruby, Ruby on Rails and a background in journalism and education.</strong> I've recently completed the Makers Academy 4 month coding bootcamp. I'm a keen learner with a passion for embracing new technologies and improving my process. Clear, mindful communication and an understanding of others are centre to my values as an effective team member. Problem solving and attention to detail are key attributes that lend themselves to my coding. 
 
 # Projects
 
