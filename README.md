@@ -1,6 +1,6 @@
 # Charlie Davis-Miller 
 
-[About Me](#About Me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
+[About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
 # About Me
 
