@@ -2,7 +2,7 @@
 
 <div align ="center"
 
-[About Me](https://github.com/charlierdm/CV#about-me) | [Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Skills](https://github.com/rhc07/CV/blob/master/README.md#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
+[About Me](https://github.com/charlierdm/CV#about-me) | [Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
 
 </div>
 
