@@ -1,6 +1,10 @@
-<center> <h1>Charlie Davis-Miller </h1> 
+<h1 align="center">Charlie Davis-Miller (<a href="mailto:charlie.davismiller@gmail.com">charlie.davismiller@gmail.com</a>)</h1>
 
-[About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) </center>
+<div align ="center"
+
+[About Me](https://github.com/charlierdm/CV#about-me) | [Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Skills](https://github.com/rhc07/CV/blob/master/README.md#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
+
+</div>
 
 # About Me
 
