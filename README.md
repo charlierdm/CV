@@ -20,9 +20,9 @@ I'm very excited to begin my first role in the tech industry and to continue on 
 
  | Name     | Description | Tech/tools     | 
 | :---        |    :----:   |    ---: |
-| [Marble](https://github.com/charlierdm/Marble)       | <strong>An Android/iOS app for visualising invisible habits.</strong>  | React Native, Firebase | 
-| [NoteApp](https://github.com/charlierdm/noteApp)   | <strong>A single page web app for developers to create notes. Built without frameworks in JavaScript.</strong>   | Vanilla JavaScript  | 
-| [AceBook](https://github.com/charlierdm/Acebook)   | <strong>A Social Media web app built in Ruby on Rails</strong> | Ruby on Rails       | 
+| [Marble](https://github.com/charlierdm/Marble)       | An Android/iOS app for visualising invisible habits.  | React Native, Firebase | 
+| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to create notes. Built without frameworks in JavaScript.  | Vanilla JavaScript  | 
+| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app built in Ruby on Rails | Ruby on Rails       | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
