@@ -8,7 +8,7 @@
 
 # About Me
 
-A creative and ambitious full stack junior developer with experience in JavaScript, Node, React Native, Ruby, Ruby on Rails. My background is in journalism and education and now I am looking for a role to continue to developing my programming skills, soft skills and my passion for learning.<br>
+A creative and driven full stack junior developer with experience in JavaScript, Node, React Native, Ruby, Ruby on Rails. My background is in journalism and education and now I am looking for a role to continue to developing my programming skills, soft skills and my passion for learning.<br>
 
 I've recently completed the Makers Academy 4 month software development boot camp. I started knowing the very basics of programming and have left feeling confident that I can learn anything I set my mind to. 
 
