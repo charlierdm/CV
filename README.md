@@ -1,6 +1,6 @@
-# Charlie Davis-Miller 
+<center> <h1>Charlie Davis-Miller </h1> 
 
-[About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
+[About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) </center>
 
 # About Me
 
