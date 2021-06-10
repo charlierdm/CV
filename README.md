@@ -22,7 +22,7 @@ I'm very excited to begin my first role in the tech industry and to continue on 
 | :---        |    :----:   |    ---: |
 | [Marble](https://github.com/charlierdm/Marble)       | An Android/iOS app for visualising invisible habits.  | React Native, Firebase | 
 | [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to create notes. Built without frameworks in JavaScript.  | Vanilla JavaScript  | 
-| [AceBook](https://github.com/charlierdm/Acebook)   | A Social Media web app built in Ruby on Rails | Ruby on Rails       | 
+| [RPS Battle System](https://github.com/charlierdm/RPS_Battle_Express_Edition)   | A webapp game of Rock Paper Scissors, built using Express. | JavaScript, Express      | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
