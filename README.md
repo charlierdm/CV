@@ -2,6 +2,8 @@
 
 <div align ="center"
 
+<img>![cv-photo](https://user-images.githubusercontent.com/75075773/122225159-bc132480-ceac-11eb-8c9a-0962d057e0b2.png)</img>
+
 [About Me](https://github.com/charlierdm/CV#about-me) | [Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Education](https://github.com/charlierdm/CV#education) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
 
 </div>
@@ -124,4 +126,4 @@ Testing frameworks: Jasmine, RSpec, Capybara
 
 - Travelling: I love exploring and experiencing new cultures. I lived in South Korea for almost 2 years and visited many neighbouring countries whilst there.
 
-- Health & Fitness: I relish being challenged. I’ve run a half Marathon for charity and spent many weekends touring mountains in South Korea by bike. I look after myself as I think interconnectedness is a very important part of life. By taking good care of myself, I can be a better friend, colleague and family member. 
+- Health & Fitness: I relish being challenged. I’ve run a half Marathon for charity and spent many weekends touring mountains in South Korea by bike.
