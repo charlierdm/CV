@@ -2,8 +2,6 @@
 
 <div align ="center"
 
-<img>![cv-photo](https://user-images.githubusercontent.com/75075773/122225159-bc132480-ceac-11eb-8c9a-0962d057e0b2.png)</img>
-
 [About Me](https://github.com/charlierdm/CV#about-me) | [Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Education](https://github.com/charlierdm/CV#education) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
 
 </div>
