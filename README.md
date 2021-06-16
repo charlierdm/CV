@@ -8,11 +8,11 @@
 
 # About Me
 
-A creative and driven full stack junior developer with experience in JavaScript, Node, React Native, Ruby, Ruby on Rails. My background is in journalism and education and now I am looking for a role to continue to developing my programming skills, soft skills and my passion for learning.<br>
+A creative and driven full stack junior developer with experience in JavaScript, Node, React Native, Ruby, Ruby on Rails. My background is in journalism and education and now I am looking for a role to continue developing my programming skills, soft skills and my passion for learning.<br>
 
 I've recently completed the Makers Academy 4 month software development boot camp. I started knowing the very basics of programming and have left feeling confident that I can learn anything I set my mind to. 
 
-After graduating from London South Bank University, I've written for several publications and taught English language whilst living in South Korea. I've developed many soft skills during this time, namely my communication skills. Clear, mindful communication and an understanding of others are centre to my values as an effective team member.  
+After graduating from London South Bank University, I've written for several publications and taught English language whilst living in South Korea. I've developed many soft skills during this time, namely my communication skills. Clear, mindful communication and an understanding of others are central to my values as an effective team member.  
 
 I'm very excited to begin my first role in the tech industry and to continue on the path of learning that has been so rewarding. 
 
@@ -33,13 +33,13 @@ For a complete list of my projects, visit my [Github](https://github.com/charlie
 
 ### Adaptability 
 
-My journey up until now has been a case of adapting from one environment to another. I spent the past 2 years within in a small community of expat teachers that became like family whilst living in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.  
+My journey up until now has been a case of adapting from one environment to another. I spent the past 2 years within a small community of expat teachers that became like family whilst living in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.  
 
 * I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach individuals of various ages and abilities. The result of this was seeing students that started with no English speaking/reading skills at all developing the skills to say basic phrases and expressions.
 
 ### Meaningful Communication 
 
-I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenbergs book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself with as much clarity as possible.
+I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenberg's book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself with as much clarity as possible.
 
 * I made sure that during each standup on our group project at Makers Academy, that we held an emotional check in - to create a space where each team member can speak openly about how they are thinking or feeling. Building understanding of how the team was managing the project and difficulties of learning a new framework helped determine what tasks we would each focus on for the day.  
 
@@ -79,7 +79,7 @@ I began as a market research analyst for international IT companies. After sever
 
 * Administration and CRM system management. 
 * Team manager to a team of 7. Training individuals and delegating tasks to make sure daily targets were met.
-* Arranging meetings with I.T profesionals and building relationships. 
+* Arranging meetings with I.T professionals and building relationships. 
   
 # Education 
 
@@ -93,7 +93,7 @@ A focus on creating well designed, clean code whilst applying design principles.
 Languages: JavaScript, Ruby\
 Frameworks: React Native, Ruby on Rails, Sinatra\
 Databases: PostgreSQL and Firebase\
-Testing framworks: Jasmine, RSpec, Capybara
+Testing frameworks: Jasmine, RSpec, Capybara
 
 
 #### Skills Developed 
@@ -124,6 +124,6 @@ Testing framworks: Jasmine, RSpec, Capybara
 
 - Music Production: I make field recordings and sample records/tapes to make music within Ableton Live. 
 
-- Travelling: I love exploring and experiencing new cultures, I lived in South Korea for almost 2 years and visited many neighbouring countries whilst there.
+- Travelling: I love exploring and experiencing new cultures. I lived in South Korea for almost 2 years and visited many neighbouring countries whilst there.
 
-- Health & Fitness: I relish being challenged. I’ve ran a half Marathon for charity and spent many weekends touring mountains in South Korea by bike. I look after myself as I think interconnectedness is a very important part of life. By taking good care of myself, I can be a better friend, colleague and family member. 
+- Health & Fitness: I relish being challenged. I’ve run a half Marathon for charity and spent many weekends touring mountains in South Korea by bike. I look after myself as I think interconnectedness is a very important part of life. By taking good care of myself, I can be a better friend, colleague and family member. 
