@@ -6,9 +6,9 @@
 
 </div>
 
-A creative and driven full stack junior developer with experience in JavaScript, React, React Native, Ruby, Ruby on Rails, Jest and RSpec. My background is in journalism and education and I am currently looking for a role to continue developing my programming and soft skills.<br>
-I've recently completed the Makers Academy 4 month software development boot camp. I started knowing the very basics of programming and have left feeling confident that I can learn anything I set my mind to.<br>
-After graduating from London South Bank University, I've written for several publications and taught English language whilst living in South Korea. I've developed many skills during this time including logical thinking, clear communication and organisation . Mindful communication and an understanding of others are central to my values as a team member.<br>
+A creative and driven full stack junior developer with experience in JavaScript, React, React Native, Ruby, Ruby on Rails, Jest and RSpec. My background is in journalism and education and I am currently looking for a role to continue developing my programming and soft skills. <br/>
+I've recently completed the Makers Academy 4 month software development boot camp. I started knowing the very basics of programming and have left feeling confident that I can learn anything I set my mind to. <br/>
+After graduating from London South Bank University, I've written for several publications and taught English language whilst living in South Korea. I've developed many skills during this time including logical thinking, clear communication and organisation . Mindful communication and an understanding of others are central to my values as a team member. <br/>
 I am very excited to begin my first role as a developer and to continue learning and growing.
 
 
