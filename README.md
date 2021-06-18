@@ -2,16 +2,15 @@
 
 <div align ="center"
 
-[About Me](https://github.com/charlierdm/CV#about-me) | [Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Education](https://github.com/charlierdm/CV#education) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
+[Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Education](https://github.com/charlierdm/CV#education) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
 
 </div>
 
-# About Me
+A creative and driven full stack junior developer with experience in JavaScript, React, React Native, Ruby, Ruby on Rails, Jest and RSpec. My background is in journalism and education and I am currently looking for a role to continue developing my programming and soft skills.
+I've recently completed the Makers Academy 4 month software development boot camp. I started knowing the very basics of programming and have left feeling confident that I can learn anything I set my mind to.
+After graduating from London South Bank University, I've written for several publications and taught English language whilst living in South Korea. I've developed many skills during this time including logical thinking, clear communication and organisation . Mindful communication and an understanding of others are central to my values as a team member.
+I am very excited to begin my first role as a developer and to continue learning and growing.
 
-A creative and driven full stack junior developer with experience in JavaScript, React, React Native, Ruby, Ruby on Rails. My background is in journalism and education and I am currently looking for a role to continue developing both my programming and soft skills.<br><br>
-I've recently completed the Makers Academy 4 month software development boot camp. I started knowing the very basics of programming and have left feeling confident that I can learn anything I set my mind to.<br><br>
-After graduating from London South Bank University, I've written for several publications and taught English language whilst living in South Korea. I've developed many skills during this time including logical thinking, clear communication and organisation . Mindful communication and an understanding of others are central to my values as a team member.<br><br>
-I am very excited to begin my first role in the tech industry and to continue improving my skill set.
 
 
 # Projects
@@ -27,25 +26,16 @@ For a complete list of my projects, visit my [Github](https://github.com/charlie
 
 # Skills 
 
-  
-
-### Adaptability 
-
-My journey up until now has been a case of adapting from one environment to another. I spent the past 2 years within a small community of expat teachers that became like family whilst living in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.  
-
-* I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach individuals of various ages and abilities. The result of this was seeing students that started with no English speaking/reading skills at all developing the skills to say basic phrases and expressions.
-
-### Meaningful Communication 
-
-I have a background in Journalism and Teaching, naturally communication has been a vital part of both. I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenberg's book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself with as much clarity as possible.
-
-* I made sure that during each standup on our group project at Makers Academy, that we held an emotional check in - to create a space where each team member can speak openly about how they are thinking or feeling. Building understanding of how the team was managing the project and difficulties of learning a new framework helped determine what tasks we would each focus on for the day.  
-
-### Determination
-
-I'm a focused, goal orientated individual. I value regular reflection and daily practices to help me keep clear and consistent. For example, I read about Stoicism regularly as I find it helps to remind me of what I hold important in life and clarify my values. I meditate daily so that I can focus on what I want to achieve each day and contribute well to whatever task I am given. 
-
-* I had the goal of saving enough whilst teaching to be able to pursue studying at Makers Academy. I achieved this by keeping my longer-term goals in mind and shaping my choices and lifestyle to support that ambition. This took self-disciple and the ability to envision what it would take to achieve my goal.    
+### Adaptability  
+I spent 18 months living in a rural province in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.
+I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach students of different abilities. The result of this was seeing students that started with no English speaking or reading skills being able to say basic phrases, expressions and enjoy their learning experience.  
+### Meaningful Communication  
+I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenberg's book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself with clarity.
+During each standup during our group project at Makers Academy, I held an emotional check in - to create a space where each team member can speak openly about how they are feeling. This created a space in which everyone felt listened to and better able to take on the day's challenges.  
+### Determination  
+I'm a focused and intent individual. I value regular reflection to see where I can improve. I read about Stoicism regularly as I find it helps to remind me of what I hold important in life and clarify my values. I meditate daily, this helps me keep focus and present in my daily tasks.
+To be able to attend Makers Academy, I needed to save enough to fund my education whilst teaching abroad. By keeping my longer-term goals in mind and shaping my lifestyle I was able to achieve this. This took self-discipline and the ability to keep my long term goal in mind on a daily basis.  
+   
   
 # Experience 
 
