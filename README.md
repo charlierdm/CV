@@ -2,7 +2,7 @@
 
 <div align ="center"
 
-[Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Experience](https://github.com/charlierdm/CV#experience) | [Education](https://github.com/charlierdm/CV#education) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
+[Projects](https://github.com/charlierdm/CV#projects) | [Skills](https://github.com/charlierdm/CV#skills) | [Education](https://github.com/charlierdm/CV#education) | [Experience](https://github.com/charlierdm/CV#experience) | [Hobbies and Interests](https://github.com/charlierdm/CV#hobbies-and-interests)
 
 </div>
 
@@ -21,25 +21,60 @@ I am very excited to begin my first role as a developer and to continue learning
  | Name     | Description | Tech/tools     | 
 | :---        |    :----:   |    ---: |
 | [Marble](https://github.com/charlierdm/Marble)       | An Android/iOS app for visualising invisible habits.  | React Native, Firebase | 
-| [NoteApp](https://github.com/charlierdm/noteApp)   | A single page web app for developers to create notes. Built without frameworks in JavaScript.  | Vanilla JavaScript  | 
-| [RPS Express](https://github.com/charlierdm/RPS_Battle_Express_Edition)   | A webapp game of Rock Paper Scissors, built using Express. | JavaScript, Express      | 
+| [Chitter API](https://github.com/charlierdm/Chitter-API-Frontend-React)   | A single page web app for developers to create notes. Built without frameworks in JavaScript.  | JavaScript  | 
+| [RPS Express](https://github.com/charlierdm/RPS_Battle_Express_Edition)   | A webapp game of Rock Paper Scissors, developed using JavaScript and Express. | JavaScript, Express      | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
 
 
 # Skills 
 
-### Adaptability  
+### Adaptability
 I spent 18 months living in a rural province in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.
-I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach students of different abilities. The result of this was seeing students that started with no English speaking or reading skills being able to say basic phrases, expressions and enjoy their learning experience.  
-### Meaningful Communication  
-I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenberg's book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself with clarity.
-During each standup during our group project at Makers Academy, I held an emotional check in - to create a space where each team member can speak openly about how they are feeling. This created a space in which everyone felt listened to and better able to take on the day's challenges.  
-### Determination  
-I'm a focused and intent individual. I value regular reflection to see where I can improve. I read about Stoicism regularly as I find it helps to remind me of what I hold important in life and clarify my values. I meditate daily, this helps me keep focus and present in my daily tasks.
-To be able to attend Makers Academy, I needed to save enough to fund my education whilst teaching abroad. By keeping my longer-term goals in mind and shaping my lifestyle I was able to achieve this. This took self-discipline and the ability to keep my long term goal in mind on a daily basis.  
-   
+I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach students of varying abilities. The result of this was seeing students that started with no English speaking or reading skills being able to say basic phrases, expressions and enjoy their learning experience.
+### Meaningful Communication
+I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenberg's book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself clearly.
+During each standup during our group project at Makers Academy, I held an emotional check in. This created a space in which each team member could speak openly about how they are feeling and feel acknowledged. 
+### Determination
+I'm a focused individual. I value regular reflection to keep track of my actions and to find where I can improve. Reading about Stoicism regularly helps to remind me of what I hold important in life and clarify my values. Daily meditation helps me keep focus and present in my daily tasks and interactions with others.
+To be able to attend Makers Academy, I needed to save enough to fund my education whilst teaching abroad. By keeping my longer-term goals in mind and shaping my lifestyle I was able to achieve this. This took self-discipline and the ability to keep my long term goal in mind on a daily basis.
+
   
+# Education 
+
+  
+
+### Makers Academy (February ‘21 to April ‘21) 
+
+Makers is a web development bootcamp based in London. We focused on full stack development in groups and frequent pair programming delivering fully featured web applications using TDD and BDD for directing the development process. We used Agile development processes to ensure high levels of productivity during sprints. 
+
+Languages: JavaScript, Ruby  
+
+Frameworks: React Native, Ruby on Rails, Sinatra  
+
+Databases: PostgreSQL and Firebase  
+
+Testing frameworks: Jasmine, RSpec, Capybara   
+
+
+### London South Bank University - BA Hons in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
+
+* Writing for several online publications during the course.
+* HTML/Wordpress blog building.
+* Image and cover editing using Photoshop.
+ 
+
+
+# Hobbies and interests
+
+* <b>Writer</b>: As a music maker/lover, I write for music related publications. Here are several examples of my written work for London based outlet ['The Ransom Note'.](https://www.theransomnote.com/author/charlie-davis-miller/) 
+
+* <b>Music Production</b>: I make field recordings and sample records/tapes to make music within Ableton Live. 
+
+* <b>Travelling</b>: I love exploring and experiencing new cultures. I lived in South Korea for almost 2 years and visited many neighbouring countries whilst there.
+
+* <b>Health & Fitness</b>: I relish being challenged. I’ve run a half Marathon for charity and spent many weekends touring mountains in South Korea by bike.
+
 # Experience 
 
   
@@ -71,50 +106,3 @@ I began as a market research analyst for international IT companies. After sever
 * Administration and CRM system management. 
 * Team manager to a team of 7. Training individuals and delegating tasks to make sure daily targets were met.
 * Arranging meetings with I.T professionals and building relationships. 
-  
-# Education 
-
-  
-
-### Makers Academy (February ‘21 to April ‘21) 
-
-A focus on creating well designed, clean code whilst applying design principles. Learning the ability to learn, regardless of the technology stack used. An emphasis on Test Driven Development and Object Oriented Programming through frequent pair programming. Learning agile working methodologies in group projects.  
-
-
-Languages: JavaScript, Ruby\
-Frameworks: React Native, Ruby on Rails, Sinatra\
-Databases: PostgreSQL and Firebase\
-Testing frameworks: Jasmine, RSpec, Capybara
-
-
-#### Skills Developed 
-
-* Object Orientated Programming / Test Driven Development / Model View Controller practices.    
-
-* Agile and team based working.   
-
-* Problem solving, Attention to detail and debugging.      
-
-
-### TEFL 140 Hour Teaching Program (September ‘17 to October ‘17) 
-
- 
-
-- Qualified to teach English as a foreign language.  
-
-
-### London South Bank University - BA Hons in Multimedia Journalism - 2:1 - (September ‘10 to October ‘13) 
-
-
-- Writing for several online music publications during the course.  
-
-
-# Hobbies and interests
-
-- Writer: As a music maker/lover, I write for music related publications. Here are several examples of my written work for London based outlet ['The Ransom Note'.](https://www.theransomnote.com/author/charlie-davis-miller/) 
-
-- Music Production: I make field recordings and sample records/tapes to make music within Ableton Live. 
-
-- Travelling: I love exploring and experiencing new cultures. I lived in South Korea for almost 2 years and visited many neighbouring countries whilst there.
-
-- Health & Fitness: I relish being challenged. I’ve run a half Marathon for charity and spent many weekends touring mountains in South Korea by bike.
