@@ -21,7 +21,7 @@ I am very excited to begin my first role as a developer and to continue learning
  | Name     | Description | Tech/tools     | 
 | :---        |    :----:   |    ---: |
 | [Marble](https://github.com/charlierdm/Marble)       | An Android/iOS app for visualising invisible habits.  | React Native, Firebase | 
-| [Chitter API](https://github.com/charlierdm/Chitter-API-Frontend-React)   | A single page web app for developers to create notes. Built without frameworks in JavaScript.  | JavaScript  | 
+| [Chitter API](https://github.com/charlierdm/Chitter-API-Frontend-React)   | A front end application that makes API calls to a social media clone.   | React, JavaScript  | 
 | [RPS Express](https://github.com/charlierdm/RPS_Battle_Express_Edition)   | A webapp game of Rock Paper Scissors, developed using JavaScript and Express. | JavaScript, Express      | 
 
 For a complete list of my projects, visit my [Github](https://github.com/charlierdm).
