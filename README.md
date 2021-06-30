@@ -31,13 +31,16 @@ For a complete list of my projects, visit my [Github](https://github.com/charlie
 
 ### Adaptability
 I spent 18 months living in a rural province in South Korea. This experience has left me feeling capable of adapting to anything and being able to thrive.
-I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach students of varying abilities. The result of this was seeing students that started with no English speaking or reading skills being able to say basic phrases, expressions and enjoy their learning experience.
+
+* I managed to use both my emotional intelligence and interpersonal skills to integrate into another culture and teach students of varying abilities. The result of this was seeing students that started with no English speaking or reading skills being able to say basic phrases, expressions and enjoy their learning experience.
 ### Meaningful Communication
 I am always practicing good, attentive listening and feel this is key for working with others. Marshall B. Rosenberg's book ‘Nonviolent Communication’ is a big influence on my approach to teamwork as I value creating a space for others to be heard and listened to as well as expressing myself clearly.
-During each standup during our group project at Makers Academy, I held an emotional check in. This created a space in which each team member could speak openly about how they are feeling and feel acknowledged. 
+
+* During each standup during our group project at Makers Academy, I held an emotional check in. This created a space in which each team member could speak openly about how they are feeling and feel acknowledged. 
 ### Determination
 I'm a focused individual. I value regular reflection to keep track of my actions and to find where I can improve. Reading about Stoicism regularly helps to remind me of what I hold important in life and clarify my values. Daily meditation helps me keep focus and present in my daily tasks and interactions with others.
-To be able to attend Makers Academy, I needed to save enough to fund my education whilst teaching abroad. By keeping my longer-term goals in mind and shaping my lifestyle I was able to achieve this. This took self-discipline and the ability to keep my long term goal in mind on a daily basis.
+
+* To be able to attend Makers Academy, I needed to save enough to fund my education whilst teaching abroad. By keeping my longer-term goals in mind and shaping my lifestyle I was able to achieve this. This took self-discipline and the ability to keep my long term goal in mind on a daily basis.
 
   
 # Education 
